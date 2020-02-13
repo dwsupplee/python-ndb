@@ -4,6 +4,13 @@
 
 [1]: https://pypi.org/project/google-cloud-ndb/#history
 
+### [1.0.2](https://www.github.com/googleapis/python-ndb/compare/v1.0.1...v1.0.2) (2020-02-13)
+
+
+### Bug Fixes
+
+* fix delete in transaction ([#333](https://www.github.com/googleapis/python-ndb/issues/333)) ([5c162f4](https://www.github.com/googleapis/python-ndb/commit/5c162f4337b837f7125b1fb03f8cff5fb1b4a356)), closes [#271](https://www.github.com/googleapis/python-ndb/issues/271)
+
 ### [1.0.1](https://www.github.com/googleapis/python-ndb/compare/v1.0.0...v1.0.1) (2020-02-11)
 
 
